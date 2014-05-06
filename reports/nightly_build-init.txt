@@ -1,0 +1,8 @@
+
+svnCheckout:
+     [java] Error: Could not find or load main class org.tmatesoft.svn.cli.SVN
+     [java] Java Result: 1
+     [java] Error: Could not find or load main class org.tmatesoft.svn.cli.SVN
+     [java] Java Result: 1
+     [java] Error: Could not find or load main class org.tmatesoft.svn.cli.SVN
+     [java] Java Result: 1
